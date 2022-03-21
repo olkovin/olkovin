@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olkovin
 - 👀 I’m interested in Networking, Infrastructures, Automation, Monitoring, Cloud technologies, Data visualization and simplification, etc.
-- 🌱 I’m currently learning GO, RouterOS-API, AWS, Prometheus
 - 📫 How to reach me:
   + t.me/olekovin
 
